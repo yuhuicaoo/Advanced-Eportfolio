@@ -33,6 +33,10 @@ section {
   transition: all 300ms ease;
 }
 
+.no-cursor {
+  cursor: not-allowed;
+}
+
 input,
 textarea {
   width: 100%;
